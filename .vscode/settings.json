@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "iosfwd": "cpp",
-        "bitset": "cpp",
-        "iostream": "cpp",
-        "*.tcc": "cpp"
-    },
-    "python.formatting.provider": "black"
-}
