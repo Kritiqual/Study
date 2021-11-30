@@ -1,7 +1,7 @@
 -- Tạo Database
 CREATE DATABASE QLVT ON (
     NAME = QLVT_data,
-    FILENAME='/var/opt/mssql/DTB/QLVYdata.mdf',
+    FILENAME='/var/opt/mssql/DTB/QLVTdata.mdf',
     SIZE = 50MB,
     MAXSIZE = 200MB,
     FILEGROWTH = 10MB
