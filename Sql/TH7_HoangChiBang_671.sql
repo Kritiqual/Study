@@ -77,7 +77,7 @@ CREATE TABLE Employee
     Job VARCHAR(25) NOT NULL,
     HireDate DATETIME NOT NULL,
     Salary NUMERIC NOT NULL,
-    Commision NUMERIC NOT NULL,
+    Commision NUMERIC,
     DepartmentNo INT FOREIGN KEY REFERENCES Department(DepartmentNo)
 )
 --<~>--

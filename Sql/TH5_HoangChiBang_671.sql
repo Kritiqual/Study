@@ -1,14 +1,14 @@
 -- Tạo Database
 CREATE DATABASE QLVT ON (
     NAME = QLVT_data,
-    FILENAME='C:\Users\minec\Downloads\DTB\QLVYdata.mdf',
+    FILENAME='/var/opt/mssql/DTB/QLVYdata.mdf',
     SIZE = 50MB,
     MAXSIZE = 200MB,
     FILEGROWTH = 10MB
 )
 LOG ON (
     NAME = QLVT_log,
-    FILENAME='C:\Users\minec\Downloads\DTB\QLVTlog.ldf',
+    FILENAME='/var/opt/mssql/DTB/QLVTlog.ldf',
     SIZE = 10MB,
     MAXSIZE = UNLIMITED,
     FILEGROWTH = 5MB
