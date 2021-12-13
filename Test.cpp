@@ -79,6 +79,7 @@ VECTOR VECTOR::operator=(VECTOR x)
 
 int main()
 {
+cout << "Xin chao";
     VECTOR test1;
     cout << "test 1 = " << test1 << "(khoi tao khong tham so)" << endl;
     VECTOR test2(5, 3.2);
