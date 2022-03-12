@@ -1,6 +1,7 @@
 *
 !*/
 !*.gitignore
+!*.githold
 !*.c
 !*.cpp
 !*.py
