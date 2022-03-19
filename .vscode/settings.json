@@ -6,5 +6,8 @@
         "*.tcc": "cpp",
         "cstring": "cpp",
         "iosfwd": "cpp"
-    }
+    },
+    "python.analysis.extraPaths": [
+        "./Python/School/Learn/2/mypkg"
+    ]
 }
