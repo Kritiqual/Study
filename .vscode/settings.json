@@ -7,9 +7,4 @@
         "cstring": "cpp",
         "iosfwd": "cpp"
     },
-    "python.analysis.extraPaths": [
-        "./Python/School/Learn/5/pkg1",
-        "./Python/School/Learn/5/pkg2",
-        "./Python/School/Learn/5/pkg3"
-    ]
 }
