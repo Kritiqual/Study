@@ -1,10 +1,12 @@
 {
     "files.associations": {
-        "ostream": "cpp",
-        "istream": "cpp",
-        "iostream": "cpp",
+        "*.wikitext": "wikitext",
+        "*.wktxt": "wikitext",
+        "*.jsonc": "jsonc",
+        "bit": "cpp",
         "*.tcc": "cpp",
-        "cstring": "cpp",
-        "iosfwd": "cpp"
-    },
+        "cmath": "cpp",
+        "complex": "cpp",
+        "random": "cpp"
+    }
 }

@@ -25,7 +25,7 @@ class PTB2:
             else:
                 print("Phuong trinh co nghiem: x={}".format(-self.__c / self.__b))
         else:
-            __delta = self.__b ** 2 - 4 * self.__a * self.__c
+            __delta = self.__b**2 - 4 * self.__a * self.__c
             if __delta < 0:
                 print("Phuong trinh vo nghiem!")
             if __delta == 0:
