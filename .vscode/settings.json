@@ -1,12 +1,6 @@
 {
-    "files.associations": {
-        "*.wikitext": "wikitext",
-        "*.wktxt": "wikitext",
-        "*.jsonc": "jsonc",
-        "bit": "cpp",
-        "*.tcc": "cpp",
-        "cmath": "cpp",
-        "complex": "cpp",
-        "random": "cpp"
-    }
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "python.formatting.provider": "none"
 }
